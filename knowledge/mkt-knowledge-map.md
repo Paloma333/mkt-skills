@@ -1,0 +1,377 @@
+============================================================
+【文件 1】MKT 期末知识体系.xmind
+============================================================
+- MKT 期末知识体系
+  - 1. 营销导论 (L01)
+    - Marketing 定义
+      - 过程：创造价值 → 建立关系 → 获取回报
+      - AMA 四动词：creating / communicating / delivering / exchanging
+      - Marketing Mgmt = art AND science
+    - 十类营销对象
+      - Goods / Services / Events / Experiences / Persons / Places / Properties / Organizations / Information / Ideas
+    - 五大基本市场
+      - Resource / Manufacturer / Consumer / Intermediary / Government
+    - 市场力量与竞争
+      - 四力量：Technology / Globalization / Physical environment / Social responsibility
+      - Disintermediation = 去中介
+      - Industry = sellers；Market = customers
+  - 2. STP 战略 (L03-04)
+    - Segmentation 细分
+      - 定义：按 targeting 相关的差异分组
+      - 四基础
+        - Demographic：age / life-cycle / gender / income
+        - Geographic：regions；PRIZM = geo+demo
+        - Behavioral：loyalty / occasions / usage rate
+        - Psychographic：lifestyle / values / traits
+      - B2B 五维度：行业规模 / operating / purchasing / situational / personal
+    - Targeting 目标选择
+      - 定义：为谁 optimize its offering
+      - Mass marketing vs Targeted vs Mass customization（规模+个性化）
+      - Strategic（为谁：Compatibility & Attractiveness）
+      - Tactical（如何触达：Effectiveness & Efficiency）
+      - Compatibility（我配不配）vs Attractiveness（它值不值）
+    - Positioning 定位
+      - 定义：占据心智中 distinctive place
+      - 价值三域：Functional / Psychological / Monetary
+      - Customer Value = Benefits − Costs
+      - POD vs POP
+        - POD 判据：Desirable / Deliverable / Differentiating
+        - POP 形式：Category / Correlational / Competitive
+        - 口诀：POP 入局，POD 赢局
+      - Frame of reference（评估基准）& Decoy effect（不对称支配）
+      - Straddle positioning（Lululemon：performance × fashion）
+      - 可持续优势三策略：现有属性差异化 / 新属性 / 强品牌
+  - 3. 市场调研与需求测量 (L05-06)
+    - 调研流程
+      - 定义问题 → 计划 → 收集 → 分析 → 决策
+      - Secondary（已存在/他目的）vs Primary（freshly gathered）
+    - 方法与工具
+      - 五方法：Observational / Ethnographic / Focus group / Survey / Behavioral
+      - 三工具
+        - Questionnaires（closed / open）
+        - Qualitative：word association / projective / laddering / brand personification
+        - Devices：EEG / MRI（神经营销）
+      - Sampling 三问：Unit / Size / Procedure
+    - 需求测量六概念（两两对调高危）
+      - 行业视角
+        - Market demand（5 个 defined）
+        - Market forecast = 实际行业支出
+        - Market potential = 行业上限
+      - 公司视角
+        - Company demand（投入水平）
+        - Company sales forecast = 选定计划
+        - Company sales potential = 公司上限
+      - Quota 略高于 forecast；Budget 略低于
+    - 营销生产力
+      - Metrics / Mix modeling / Dashboards
+      - 四路径：Customer / Unit / Cash-flow(短期) / Brand(长期)
+  - 4. 产品 (L07)
+    - 差异化 8 维度
+      - Core functionality / Features / Form / Style customization
+      - Performance（水平）≠ Conformance（一致性）
+      - Durability（寿命）≠ Reliability（不出错）
+    - 产品组合
+      - Width 线数 / Length 项数 / Depth 变体数 / Consistency 相关度
+      - Line stretching：Down / Up / Two-way
+      - Line filling = 区间内加项（≠ stretch）
+    - 包装与标签
+      - Packaging = 设计 + 生产容器
+      - Labeling 四功能：Identifies / Grades / Describes / Promotes
+    - 质量承诺
+      - Warranty：修/换，不退款
+      - Guarantee：补偿
+  - 5. 定价 (L08-09) ⭐ 第一优先
+    - 消费者价格心理
+      - Reference price：记忆中的内部价格
+      - Reservation price = upper-bound 最高愿付
+      - 价格线索对品类新手更有效
+      - Sale 标志：部分打折 > 全部；过度使用→品类销售下降
+    - 定价六步
+      - 目标 → 需求 → 成本 → 竞争者 → 方法 → 最终价
+    - 四大目标
+      - Short-term profit / Penetration(低价) / Skimming(高价) / Quality leadership
+    - 三考量
+      - Costs = floor；Competitors = orienting point；Customer features = ceiling
+    - 五种方法
+      - Markup：cost ÷ (1−ROS)
+      - Target-return：cost + (return×capital)÷sales
+      - EVC = 买方感知价值
+      - Competitive
+      - Auction：English 升 / Dutch 降 / Sealed-bid
+    - 价格歧视
+      - 定义：≥2 价且不反映成本比例差异
+      - 1st 逐人 / 2nd 数量 / 3rd 群体
+      - 3rd 五形式：segment / product form / channel / location / time
+    - 组合定价六式
+      - Loss-leader / Optional feature / Captive(主机+耗材) / Two-part / By-product / Bundling
+    - 价格变化
+      - 降价：excess capacity / market domination
+      - 提价：cost inflation / anticipatory
+      - 应对低价竞争者三反应：Cost / Differentiate / Focus-Exit
+    - Incentives
+      - mostly short-term；三风险：无长期增益 / stockpiling / devalue
+  - 6. 整合营销传播 (L09)
+    - 模型
+      - 三动词：inform / persuade / remind
+      - Macro（总体）vs Micro（具体反应）
+    - 反应六级 ⭐ 顺序必背
+      - Awareness → Knowledge → Liking → Preference → Conviction → Purchase
+    - 传播组合九类
+      - Advertising / Mobile / Events / PR / Packaging / Personal selling / Online-social / Direct / WOM
+    - 媒体计划
+      - E = R × F；WE = R × F × I
+      - 四投放：Continuity / Concentration / Flighting / Pulsing
+    - 信息与信源
+      - Informational（产品属性）vs Transformational（非产品利益/形象）
+      - Credibility 三要素：Expertise / Trustworthiness / Likability
+      - Congruity：或损失自身声望
+      - ADPLAN：Attention / Distinction / Positioning / Linkage / Amplification / New equity
+  - 7. CSR (L10) ⭐ 新增章
+    - Triple Bottom Line
+      - People(social) / Planet(sustainability) / Profit(monetary)
+    - BOP 与逆向创新
+      - BOP：largest but poorest，<$2.50/day
+      - Reverse innovation：新兴市场廉价品 → 进发达市场
+    - 三概念辨析
+      - Cause marketing：捐助挂钩收入交易
+      - Social marketing：推进事业本身
+      - Brand activism：就争议性议题表态
+    - 可持续
+      - Sustainability：不损害未来世代
+      - Greenwashing：环保名不副实
+      - Philanthropy 三收益：image / loyalty / perceived performance
+
+============================================================
+【文件 2】final review.xmind
+============================================================
+- review
+  - mkt strategy
+    - STP
+      - what: Segmentation/Targeting/positioning
+      - segmentation
+        - 定义：按 targeting 相关的差异分组
+        - 四基础
+          - Demographic：age / life-cycle / gender / income
+          - Geographic：regions；PRIZM = geo+demo
+          - Behavioral：loyalty / occasions / usage rate
+          - Psychographic：lifestyle / values / traits
+        - B2B 五维度：行业规模 / operating / purchasing / situational / personal
+      - positioning
+        - domains of value
+        - Development o value proposition
+        - key principle
+        - 定义: act to design company's offering and image to ocuupy a distinctive place in the mind of target consumers
+          - 设计供给与形象，在目标顾客心智中占据独特位置
+          - 定义：占据心智中 distinctive place
+          - 定位陈述：Among (target segment), our brand is (point-of-difference) within (frame of reference), because (reason to believe).
+        - value proposition价值主张
+          - 区分点：这个特性给客户什么好处（而非产品特性）=承诺的利益benefits promised to target customers
+          - 价值三域：Functional value（功能价值）、Psychological value（心理价值）、Monetary value（货币价值）。
+        - kotler客户价值理论
+Customer Value = Benefits − Costs
+          -  Total customer benefit顾客得到的东西
+            - product, service, personnel，image
+          - Total customer cost顾客付出的成本
+            - monetary/time/energy/psychological
+            - evaluating-obtaining-using-disposing
+        - POD vs POP
+          - 口诀：POP 入局，POD 赢局
+            - PoP ensures you're IN the game. PoD helps you WIN the game.
+          - POD：Point-of-difference
+            - POD 判据：Desirable / Deliverable / Differentiating
+          - POP: Point-of-parity等同点
+            - POP 形式：Category / Correlational / Competitive（对手做到的我也做到，消除对方优势）
+              - not unique
+        - Frame of reference（评估基准）& Decoy effect（不对称支配）
+          - 参考框架：消费者用来评判你的参照物集合
+消费者不会孤立看产品。evaluate
+            - A frame of reference
+          - decoy effect诱饵效应：add a third inferior option (decoy) that no-one will choose。对比
+        - ● Straddle positioning（跨式定位）
+          - Lululemon：performance × fashion）
+        - 可持续优势三策略：现有属性差异化 / 新属性 / 强品牌
+          - ① Differentiate on an existing attribute（在现有属性上差异化）；
+          - ② Introduce a new attribute（引入新属性）；
+          - ③ Build a strong brand（建设强势品牌）。
+      - Targeting
+        - 目标市场覆盖策略target market coverage
+          - single-segment concentration
+          - product specialization
+            - 产品专业化，产品不变市场变
+          - market speciailization
+            - 市场专业化，市场不变提供多种产品
+          - full market coverage
+        - persona
+          - Detailed profiles of hypothetical target consumers
+  - mkt research process
+    - 定义
+      - The function that links the consumer, customer, and public to the marketer through information
+      - identify and define opportunities and problems
+    - 流程Process
+      - ① Define the problem（define decision alternatives + research objectives；把 managerial problem 转化为 marketing problem）→ ② Develop the research plan → ③ Collect information → ④ Analyze → ⑤ Decision。
+      - Secondary（已存在/他目的）vs Primary（freshly gathered）
+        - 定义
+          - ○ Secondary data：collected for another purpose and already exist somewhere。
+          - ○ Primary data：freshly gathered for a specific purpose or project。
+    - 方法与工具
+      - 五方法：Observational / Ethnographic民族志 / Focus group焦点小组 / Survey / Behavioral
+      - 三工具
+        - Questionnaires（closed / open）
+        - Qualitative定性
+          - word association词语联想 / projective投射 / laddering阶梯法 / brand personification品牌拟人化/visualization可视化
+        - Devices：EEG / MRI（神经营销）
+      - Sampling 三问：Unit谁 / Size多少人 / Procedure如何选
+    - 需求测量六概念（两两对调高危）
+      - 行业视角
+        - Market demand（5 个 defined）
+          - customer group/geographic area/time period/marketing environment/mkt program
+        - Market forecast = 实际行业支出
+          - 行业实际支出 ↔ 预测
+            - 与行业实际营销支出水平（actual level of industry marketing expenditure）相对应的市场需求
+        - Market potential = 行业上限
+          - maximum / all firms
+      - 公司视角
+        - Company demand（投入水平）
+          - alternative levels of company marketing effort公司在不同营销投入水平下估计能占到的市场份额
+        - Company sales forecast = 选定计划
+          - 基于chosen plan + assumed environment的公司预期销售水平
+        - Company sales potential = 公司上限
+          - sales limit approached
+      - Quota 略高于 forecast；Budget 略低于
+        - sale quota销售目标
+        - sale budget销量预期
+      - 预测方法
+        - Survey of buyers' intentions、Composite of sales force opinions、Expert opinion、Past-sales analyses、Market-test method
+    - 营销生产力
+      - Metrics 测量/ Mix modeling / Dashboards
+      - 四路径：Customer / Unit / Cash-flow(短期) / Brand(长期)
+        - customer：prospects → customers，awareness → preference → trial → repeat purchase；
+        - unit：按产品线/地区的销量、每单位营销成本、margin 优化
+        - cash-flow：营销支出的短期回报（program & campaign ROI）
+        - brand：长期品牌资产（感知健康 + 财务健康）
+  - 定价Price
+    - 消费者价格心理
+      - Reference price：记忆中的内部参考价格
+      - Reservation price = upper-bound 最高愿付
+      - Sale 标志：部分打折 > 全部；过度使用→品类销售下降
+      - ● Image pricing / Price cues（价格线索）：sale signs、9 结尾定价等
+        - 价格线索对品类新手更有效
+    - 定价六步
+      - 目标 → 需求 → 成本 → 竞争者 → 方法 → 最终价
+        - ① Defining the pricing objective（定价目标）→ ② Determining demand（确定需求）→ ③ Estimating costs（估计成本）→ ④ Analyzing competitors' costs, prices, and offers（分析竞争者）→ ⑤ Selecting a pricing method（选择定价方法）→ ⑥ Setting the final price（最终定价）
+    - 四大目标
+      - Short-term profit / Penetration渗透(低价) / Skimming(高价撇脂，逐层降价) / Quality leadership
+    - 三考量
+      - Costs = floor；Competitors = orienting point；Customer features = ceiling
+    - 五种方法
+xx pricing
+      - Markup：cost ÷ (1−ROS)
+        - markup成本加成
+      - Target-return：cost + (return×capital)÷sales
+        - 目标回报定价
+先设置roi算总利润再反推
+      - EVC = 买方感知价值
+        - 价值导向，顾客经济价值
+不可替代性转化为价值 customers' perceived value
+      - Competitive
+      - Auction拍卖：English 升 / Dutch 降 / Sealed-bid
+    - 需求价格弹性&成本
+● Price elasticity & cost
+      -  Fixed costs固定成本：do NOT vary with production level or sales revenue
+        - 租金/设备
+      - Variable costs：vary directly with the level of production
+        - 原材料
+      - ○ Total costs：sum of fixed and variable costs
+    - 价格歧视
+      - 定义：≥2 价且不反映成本比例差异
+      - 1st 逐人 / 2nd 数量 / 3rd 群体
+        - xx degree
+      - 3rd 五形式：segment / product form / channel / location / time
+        - surge pricing → time pricing
+    - 组合定价六式
+      - Loss-leader 低价引流品/ Optional feature可选功能定价：基础品+选装件 / Captive(主机+耗材) / Two-part如会员费+单次费 / By-product副产品 / Bundling
+    - 价格变化
+      - 降价：excess capacity产能过剩 / market domination市场驱动
+      - 提价：cost inflation通货膨胀 / anticipatory预期性提价：预期未来成本上涨而提前提价
+        - ① Compete on Cost（含 fighter brand）；② Differentiate and Add Value；③ Focus or Exit Certain Segments。
+      - 应对低价竞争者三反应：Cost / Differentiate / Focus-Exit
+    - Incentives
+促销激励
+      - mostly short-term&quicker or greater purchase
+      - 三风险：无长期增益little permanent gain over the longer term / stockpiling诱发囤货 / devalue贬值
+  - Product产品
+    - 差异化 8 维度
+      - 8: Core functionality / Features / Form / Style customization / performance quality性能质量 / conformance quality符合性质量/ durability / reliability
+        - Performance（水平）≠ Conformance（一致性）
+          - 一辆性能卓越但故障频繁的车：performance 高、conformance 低。
+        - Durability（寿命）≠ Reliability（不出错）
+    - 设计
+      - 定义：The totality of features that affect the way a product looks, feels, and functions to a consumer
+    - 产品组合
+Product portfolio/mix
+      - 定义
+        - 产品线+产品项目
+          - line+item
+      - 四维度
+        - Width 线数 / Length 项数 / Depth 变体数 / Consistency 产品线间相关度
+          - variants → depth；different product lines → width；items in the mix → length
+      - 产品线决策
+        - Line filling填补 = 区间内加项（≠ stretch）
+        - Line stretching拉伸：Down / Up / Two-way
+    - 包装与标签
+      - Packaging = 设计 + 生产容器
+      - Labeling 标签四功能：Identifies / Grades / Describes / Promotes促销
+    - 质量承诺
+      - Warranty：修/换，不退款
+      - Guarantee：补偿
+  - 整合营销传播 Promotions
+    - 模型
+      - 三动词：inform / persuade / remind
+      - macromodel&micromodel
+        - Macro（总体，公司vs消费者）
+ Micro（具体反应，消费者）
+    - 消费者反应层级
+      - Awareness → Knowledge → Liking → Preference → Conviction → Purchase
+    - 传播组合九类
+      - Advertising / Mobile / Events / PR / Packaging / Personal selling / Online-social / Direct / WOM
+    - 媒体计划
+      - E = R × F；WE = R × F × I
+        - 总曝光数 E = R × F（Reach 触达 × Frequency 频次）；
+        - 加权曝光数 WE = R × F × I（再乘 Impact 影响）。
+      - 四投放：Continuity / Concentration / Flighting / Pulsing
+        - Concentration（集中一段时间投）↔ Flighting（投-停-投）↔ Pulsing（低量连续+高峰脉冲）↔ Continuity（均匀连续）
+    - 信息与信源
+      - 两大广告诉求appeal
+        - Informational（产品属性）vs Transformational（非产品利益/形象）appeal
+      - Source Credibility 三要素：Expertise 专业性/ Trustworthiness可信赖度 / Likability可爱度
+      - Principle of Congruity一致性原则：或损失自身声望
+      - ADPLAN：Attention / Distinction / Positioning / Linkage / Amplification / New equity
+  - CSR 企业社会责任
+    - Triple Bottom Line
+三重底线
+      - People(social) / Planet(sustainability) / Profit(monetary)
+    - BOP 与逆向创新
+      - 定义： Bottom of the Pyramid 
+        - BOP：largest but poorest，<$2.50/day
+      - Reverse innovation：新兴市场廉价品 → 进发达市场；便宜产品 → 发达市场
+    - 三概念辨析
+      - Cause marketing：捐助挂钩收入交易
+      - Social marketing：推进事业本身
+      - Brand activism：就争议性议题表态
+    - 可持续
+      - Sustainability：不损害未来世代
+      - Greenwashing：环保名不副实
+      - Philanthropy 三收益：image / loyalty / perceived performance
+  - 营销导论
+    - Marketing 定义
+      - 过程：创造价值 → 建立关系 → 获取回报
+      - AMA 四动词：creating / communicating / delivering / exchanging
+      - Marketing Mgmt = art AND science
+    - 十类营销对象
+      - Goods / Services / Events / Experiences / Persons / Places / Properties / Organizations / Information / Ideas
+    - 五大基本市场
+      - Resource / Manufacturer / Consumer / Intermediary / Government
+    - 市场力量与竞争
+      - 四力量：Technology / Globalization / Physical environment / Social responsibility
+      - Disintermediation = 去中介
+      - Industry = sellers；Market = customers
